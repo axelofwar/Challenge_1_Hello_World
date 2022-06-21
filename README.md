@@ -1,7 +1,9 @@
-near-blank-project
+Challenge_1_Hello_World
 ==================
 
 This [React] app was initialized with [create-near-app]
+
+** The integration_tests folder was removed from the default create-near-app in order to meet github file size requirements. There are tests in #[tests] to replace the need for this file at large **
 
 
 Quick Start
