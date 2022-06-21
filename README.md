@@ -81,6 +81,8 @@ Step 3: deploy!
 One command:
 
     yarn deploy
+    
+    ** yarn start accomlishes this and launches front end **
 
 As you can see in `package.json`, this does two things:
 
